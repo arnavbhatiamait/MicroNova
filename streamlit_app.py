@@ -11,7 +11,8 @@ from PIL import Image
 import google.generativeai as genai
 import ollama
 import asyncio
-
+import subprocess
+import base64
 # Set matplotlib backend
 import matplotlib
 matplotlib.use('Agg')
@@ -19,21 +20,90 @@ matplotlib.use('Agg')
 # Load environment variables
 from dotenv import load_dotenv
 load_dotenv()
+def get_ollama_models():
+    try:
+        result = subprocess.run(['ollama', 'list'], capture_output=True, text=True, check=True)
+        lines = result.stdout.strip().split('\n')
+        models = []
+
+        # Skip header row (assumes first row contains column headers)
+        for line in lines[1:]:
+            # Typically, model name is the first column
+            parts = line.split()
+            if parts:
+                models.append(parts[0])
+
+        return models
+    except subprocess.CalledProcessError as e:
+        print("Error running 'ollama list':", e)
+        print("Output:", e.stdout)
+        print("Error Output:", e.stderr)
+
+import requests
+
+
+# Example usage:
+# api_key = "your_actual_groq_api_key"
+# print(get_all_groq_models(api_key))
+
+import google.generativeai as genai
+import os
+def get_all_gemini_models(api_key):
+
+
+    """
+    Lists the names of all available Gemini models.
+
+    Args:
+        api_key: Your Google AI API key.
+
+    Returns:
+        A list of strings, where each string is the name of an available Gemini model.
+        Returns an empty list if the API key is invalid or there's an error.
+    """
+    try:
+        genai.configure(api_key=api_key)
+        models = genai.list_models()
+        gemini_models = [model.name for model in models if "gemini" in model.name.lower()]
+        return gemini_models
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return []
+
 
 # Model configurations
 GEMINI_MODEL = 'gemini-1.5-flash-latest'
 LLAMA_MODEL = 'llava:7b'
-GEMINI_AVAILABLE = False
+st.image("./prims_new.png")
+with st.sidebar:
+    st.title("Choose Model Parameters")
+    model_choice = st.selectbox("Select Model", ["Gemini", "Llama"])
+    if model_choice == "Gemini":
+        # model_name = GEMINI_MODEL
+        GEMINI_AVAILABLE=True
+        OLLAMA_AVAILABLE=False
+        api_key=st.text_input("Enter Api Key",type='password')
+        model_list=get_all_gemini_models(api_key=api_key)
+        model_name=st.selectbox("Choose Model Name",model_list)
+        GEMINI_MODEL=model_name
+    else:
+        # model_name = LLAMA_MODEL
+        GEMINI_AVAILABLE=False
+        OLLAMA_AVAILABLE=True
+        model_list=get_ollama_models()
+        model_name=st.selectbox("Choose Model Name",model_list)
+        LLAMA_MODEL=model_name
+
 
 # Configure Google Generative AI
-try:
-    if api_key := os.environ.get('GOOGLE_API_KEY'):
-        genai.configure(api_key=api_key)
-        model = genai.GenerativeModel(model_name=GEMINI_MODEL)
-        GEMINI_AVAILABLE = True
-        st.success("Gemini model is available")
-except Exception as e:
-    st.error(f"Error configuring Gemini: {e}")
+# try:
+#     if api_key := os.environ.get('GOOGLE_API_KEY'):
+#         genai.configure(api_key=api_key)
+#         model = genai.GenerativeModel(model_name=GEMINI_MODEL)
+#         GEMINI_AVAILABLE = True
+#         st.success("Gemini model is available")
+# except Exception as e:
+#     st.error(f"Error configuring Gemini: {e}")
 
 # Helper functions
 def save_fig(fig):
@@ -121,13 +191,13 @@ def visual_generation(df):
             path = save_fig(fig)
             visualizations.append(("Top Customers", path))
         # Correlation heatmap
-        numeric_cols = df.select_dtypes(include=np.number).columns.tolist()
-        if len(numeric_cols) > 1:
-            fig, ax = plt.subplots(figsize=(8,6))
-            sns.heatmap(df[numeric_cols].corr(), annot=True, ax=ax)
-            ax.set_title("Correlation among Numeric Features")
-            path = save_fig(fig)
-            visualizations.append(("Numeric Features Correlation", path))
+        # numeric_cols = df.select_dtypes(include=np.number).columns.tolist()
+        # if len(numeric_cols) > 1:
+        #     fig, ax = plt.subplots(figsize=(8,6))
+        #     sns.heatmap(df[numeric_cols].corr(), annot=True, ax=ax)
+        #     ax.set_title("Correlation among Numeric Features")
+        #     path = save_fig(fig)
+        #     visualizations.append(("Numeric Features Correlation", path))
         if 'Order Date' in df.columns:
             df['Order Date'] = pd.to_datetime(df['Order Date'], errors='coerce')
             df_time = df.dropna(subset=['Order Date']).copy() # Create a copy to avoid modifying the original DataFrame
@@ -187,13 +257,13 @@ def visual_generation(df):
             visualizations.append(("Total Profit vs Total Revenue", path))
 
         # Correlation heatmap
-        numeric_cols = df.select_dtypes(include=np.number).columns.tolist()
-        if len(numeric_cols) > 1:
-            fig, ax = plt.subplots(figsize=(8, 6))
-            sns.heatmap(df[numeric_cols].corr(), annot=True, cmap='coolwarm', ax=ax)
-            ax.set_title("Correlation Matrix of Numeric Features")
-            path = save_fig(fig)
-            visualizations.append(("Correlation Matrix", path))
+        # numeric_cols = df.select_dtypes(include=np.number).columns.tolist()
+        # if len(numeric_cols) > 1:
+        #     fig, ax = plt.subplots(figsize=(8, 6))
+        #     sns.heatmap(df[numeric_cols].corr(), annot=True, cmap='coolwarm', ax=ax)
+        #     ax.set_title("Correlation Matrix of Numeric Features")
+        #     path = save_fig(fig)
+        #     visualizations.append(("Correlation Matrix", path))
     
     except Exception as e:
         st.error(f"Error in visualization: {e}")
@@ -205,6 +275,69 @@ def cleanup(files):
             os.remove(file)
         except Exception:
             pass
+
+async def gemini_vision_analysis(image_path):
+    if not GEMINI_AVAILABLE:
+        return [{"AI vision","Gemini not available"}] 
+    model=genai.GenerativeModel(model_name=GEMINI_MODEL)
+    results=[]
+    for title,path in image_path:
+        try:
+            img=Image.open(path)
+            res=await model.generate_content_async([f"Explain this '{title}'",img],generation_config=genai.types.GenerationConfig(max_output_tokens=1000,temperature=0.2))
+            results.append({"title":title,"response":res.text if res.parts else "No response from Gemini model"})
+        except Exception as e:
+            results.append({"title":title,"response":f"Error: {e}"})
+    return results
+
+    
+
+# %%
+async def ollama_vision_analysis(image_path_list):
+    results = []
+
+    for title, path in image_path_list:
+        try:
+            # Open image and convert to base64
+            img = Image.open(path)
+            buffered = io.BytesIO()
+            img.save(buffered, format="PNG")
+            img_str = base64.b64encode(buffered.getvalue()).decode("utf-8")
+
+            # Prepare the request
+            # response = await ollama.acomplete(
+            #     model=LLAMA_MODEL,
+            #     prompt=f"Explain this '{title}'",
+            #     images=[img_str],
+            #     options={
+            #         "temperature": 0.2,
+            #         "num_predict": 1000
+            #     }
+            # )
+            response = ollama.generate(
+                model=LLAMA_MODEL,
+                prompt=f"Explain this '{title}'",
+                images=[img_str],
+                options={
+                    "temperature": 0.2,
+                    "num_predict": 1000
+                }
+            )
+
+            results.append({
+                "title": title,
+                "response": response.get("response", "No response from Ollama model")
+            })
+            # print("Visualization response:", response)
+
+        except Exception as e:
+            results.append({
+                "title": title,
+                "response": f"Error: {e}"
+            })
+
+    return results
+
 
 # Streamlit App
 st.title("Microfinance Data Analysis Assistant")
@@ -245,7 +378,8 @@ if uploaded_file:
                 if GEMINI_AVAILABLE:
                     swot_result = asyncio.run(gemini_text_analysis("swot", info_str))
                 else:
-                    swot_result = "Gemini model is not available."
+                    # swot_result = "Gemini model is not available."
+                    swot_result=asyncio.run(ollama_text_analysis("swot",info_str))
                 st.markdown("### SWOT Analysis")
                 st.write(swot_result)
 
@@ -253,7 +387,8 @@ if uploaded_file:
                 if GEMINI_AVAILABLE:
                     top_customers = asyncio.run(gemini_text_analysis("best_customers", info_str))
                 else:
-                    top_customers = "Gemini model is not available."
+                    top_customers = asyncio.run(ollama_text_analysis("best_customers",info_str))
+                    # top_customers = "Gemini model is not available."
                 st.markdown("### Top Customers")
                 st.write(top_customers)
 
@@ -261,7 +396,8 @@ if uploaded_file:
                 if GEMINI_AVAILABLE:
                     worst_customers = asyncio.run(gemini_text_analysis("worst_customers", info_str))
                 else:
-                    worst_customers = "Gemini model is not available."
+                    worst_customers = asyncio.run(ollama_text_analysis("worst_customers",info_str))
+                    # worst_customers = "Gemini model is not available."
                 st.markdown("### Worst Customers")
                 st.write(worst_customers)
 
@@ -269,9 +405,23 @@ if uploaded_file:
                 if GEMINI_AVAILABLE:
                     future_strat = asyncio.run(gemini_text_analysis("future", info_str))
                 else:
-                    future_strat = "Gemini model is not available."
+                    future_strat = asyncio.run(ollama_text_analysis("future",info_str))
+                    # future_strat = "Gemini model is not available."
                 st.markdown("### Future Strategies")
                 st.write(future_strat)
+            if st.button("Descibe Various Graphs"):
+                if GEMINI_AVAILABLE:
+                    graph_descriptions = asyncio.run(gemini_vision_analysis(visualizations))
+                else:
+                    graph_descriptions = asyncio.run(ollama_vision_analysis(visualizations))
+                print(graph_descriptions)
+                st.markdown("### Graph Descriptions")
+                for i in graph_descriptions:
+                    title=i.get("title")
+                    insight=i.get("response")
+                    # print(title,insight)
+                    # await cl.Message(content=f"### {title} Insight \n {insight}").send()
+                    st.markdown(f"### {title} Insight \n {insight}")
 
             # Cleanup temporary images
             cleanup([path for _, path in visualizations])
