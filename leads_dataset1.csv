@@ -1,0 +1,501 @@
+Name,Salary,Email,Type of Work,Employment Status,Credit Score,Age,Salary_Class,Credit_Class,Age_Class,Phone Number
+Aniket Gupta,0,aniketgupta3562062@example.com,None,Unemployed,372,50,Very low,low,High,(209) 646-4971-812
+Anil Varghese,36550,anilvarghese7618803@example.com,None,Retired,624,74,Very low,Medium,Very high,(205) 635-2978-812
+Anvi Chakraborty,0,anvichakraborty4722937@example.com,None,Unemployed,404,43,Very low,low,Medium,(224) 226-3471-812
+Riya Taylor,95917,riyataylor3655972@example.com,Software Development,Employed Full-time,336,23,High,low,Low,(224) 274-7487-812
+David Chandra,47095,davidchandra8402962@example.com,Engineering,Employed Part-time,676,19,Low,High,Low,(216) 798-2030-812
+Rudra Shetty,45429,rudrashetty6379745@example.com,Marketing,Employed Full-time,497,54,Low,low,High,(224) 157-9471-812
+Yash Khan,108623,yashkhan8811339@example.com,Customer Support,Contractor,692,51,High,High,High,(215) 359-4162-812
+Arjun Gupta,0,arjungupta6841106@example.com,None,Unemployed,424,55,Very low,low,Very high,(216) 312-1006-812
+Tanmay Qureshi,0,tanmayqureshi1632564@example.com,None,Unemployed,347,24,Very low,low,Low,(216) 703-2123-812
+Nisha Mirza,0,nishamirza6560545@example.com,No Job,Student,300,16,High,low,Low,(205) 953-1542-812
+Diya Thomas,0,diyathomas6799442@example.com,No Job,Student,300,16,High,low,Low,(216) 192-7732-812
+Arya Naik,0,aryanaik596052@example.com,None,Unemployed,309,38,Very low,low,Medium,(209) 266-1345-812
+Meera George,12018,meerageorge1347885@example.com,Internship,Student,432,24,Very low,low,Low,(216) 303-3840-812
+Sanjay Mukherjee,13766,sanjaymukherjee3008907@example.com,None,Retired,706,80,Very low,High,Very high,(200) 117-8137-812
+Vivaan Anderson,66066,vivaananderson5255457@example.com,Marketing,Employed Full-time,330,50,Medium,low,High,(209) 945-8609-812
+Anukool Ghosh,52218,anukoolghosh9788889@example.com,Customer Support,Employed Part-time,830,24,Low,Very high,Low,(224) 267-5062-812
+Ira Ghosh,50571,iraghosh8698278@example.com,Marketing,Employed Part-time,744,45,Low,High,High,(209) 494-2118-812
+Shiv Hussain,41754,shivhussain4373852@example.com,Operations,Employed Full-time,683,29,Low,High,Low,(224) 977-7562-812
+Dev Malhotra,74274,devmalhotra3279797@example.com,HR,Self-Employed,337,57,Medium,low,Very high,(216) 466-2413-812
+Vivaan Kulkarni,0,vivaankulkarni3208464@example.com,None,Unemployed,364,33,Very low,low,Medium,(216) 647-6582-812
+Mansi Naik,108053,mansinaik8263116@example.com,Marketing,Employed Part-time,516,46,High,low,High,(216) 837-8623-812
+Arya Nair,0,aryanair5017628@example.com,None,Unemployed,373,41,Very low,low,Medium,(205) 567-8795-812
+Amit Qureshi,17367,amitqureshi9370465@example.com,None,Retired,721,79,Very low,High,Very high,(216) 582-6822-812
+Mayank Anderson,85956,mayankanderson4513174@example.com,Engineering,Employed Part-time,300,25,High,low,Low,(205) 638-1647-812
+David Varghese,39905,davidvarghese9194549@example.com,None,Retired,732,82,Very low,High,Very high,(216) 588-6774-812
+Tripti Malhotra,8416,triptimalhotra5789922@example.com,Internship,Student,506,23,Very low,low,Low,(216) 158-2389-812
+Nisha Joshi,77410,nishajoshi4422035@example.com,Finance,Self-Employed,762,31,Medium,Very high,Medium,(205) 183-4097-812
+Rudra Khan,39837,rudrakhan1908038@example.com,None,Retired,659,82,Very low,High,Very high,(200) 133-1672-812
+Neelam Joshi,111227,neelamjoshi4047125@example.com,Marketing,Self-Employed,574,54,High,Medium,High,(200) 191-1470-812
+Naman Malhotra,110263,namanmalhotra4247488@example.com,Marketing,Employed Part-time,806,29,High,Very high,Low,(200) 882-4508-812
+Ajay Patel,49698,ajaypatel1615864@example.com,None,Retired,726,72,Low,High,Very high,(215) 816-2493-812
+Riya Jain,0,riyajain8099187@example.com,None,Unemployed,436,47,Very low,low,High,(200) 788-3078-812
+Kiran Rao,0,kiranrao3177836@example.com,None,Unemployed,338,41,Very low,low,Medium,(216) 623-1377-812
+Prakash Nair,0,prakashnair2793911@example.com,None,Unemployed,418,23,Very low,low,Low,(205) 305-4394-812
+Mayank Nair,0,mayanknair2414446@example.com,None,Unemployed,368,27,Very low,low,Low,(224) 881-3067-812
+Krishna Desai,23136,krishnadesai1610513@example.com,None,Retired,687,72,Very low,High,Very high,(205) 863-5800-812
+Kavya Jain,0,kavyajain8574995@example.com,None,Unemployed,433,18,Very low,low,Low,(205) 383-9673-812
+Kiran Tripathi,4867,kirantripathi6217489@example.com,None,Retired,721,74,Very low,High,Very high,(216) 705-3326-812
+Tanmay Gupta,0,tanmaygupta4762673@example.com,No Job,Student,300,16,High,low,Low,(205) 918-4981-812
+Vivek Bhat,23488,vivekbhat298431@example.com,None,Retired,720,82,Very low,High,Very high,(215) 381-9488-812
+Nisha Reddy,0,nishareddy2607662@example.com,None,Unemployed,341,24,Very low,low,Low,(216) 730-8092-812
+Nisha Ali,55584,nishaali7453496@example.com,Sales,Employed Full-time,523,47,Low,low,High,(215) 427-5163-812
+Anil Tripathi,8001,aniltripathi859651@example.com,None,Retired,758,68,Very low,Very high,Very high,(200) 740-3507-812
+Pranav Brown,58952,pranavbrown5045817@example.com,Software Development,Employed Part-time,452,57,Low,low,Very high,(205) 794-6198-812
+Saanvi Das,12994,saanvidas4090512@example.com,None,Retired,792,67,Very low,Very high,Very high,(224) 829-5043-812
+Ayaan Gupta,53763,ayaangupta554425@example.com,HR,Employed Full-time,574,36,Low,Medium,Medium,(205) 281-4226-812
+David Gandhi,0,davidgandhi2564169@example.com,None,Unemployed,333,47,Very low,low,High,(224) 911-4588-812
+Anvi Desai,41779,anvidesai6906154@example.com,None,Retired,669,69,Low,High,Very high,(216) 628-9165-812
+Aryan Pathan,89144,aryanpathan4989362@example.com,Customer Support,Self-Employed,674,20,High,High,Low,(200) 611-5686-812
+Shiv Kumar,44954,shivkumar9995112@example.com,Finance,Contractor,712,49,Low,High,High,(224) 411-7575-812
+Neelam Mathew,106619,neelammathew7560861@example.com,Software Development,Employed Part-time,787,40,High,Very high,Medium,(215) 309-1932-812
+Ajay Naik,95816,ajaynaik4086911@example.com,Customer Support,Employed Part-time,366,47,High,low,High,(209) 485-5713-812
+Suresh Naik,119366,sureshnaik186935@example.com,Operations,Contractor,755,29,High,Very high,Low,(209) 915-5701-812
+Jane Gupta,50188,janegupta467601@example.com,Software Development,Self-Employed,593,40,Low,Medium,Medium,(215) 943-1586-812
+Suresh Patil,0,sureshpatil8722663@example.com,No Job,Student,300,26,Low,low,Low,(216) 395-1759-812
+Vishal Rathore,0,vishalrathore8429218@example.com,No Job,Student,300,23,High,low,Low,(209) 814-9416-812
+Kajal Malhotra,30507,kajalmalhotra7629502@example.com,None,Retired,731,72,Very low,High,Very high,(224) 569-9473-812
+Shivam Gupta,0,shivamgupta4209218@example.com,None,Unemployed,334,44,Very low,low,Medium,(216) 511-1467-812
+Kavya George,59068,kavyageorge7682699@example.com,Marketing,Employed Full-time,543,56,Low,low,Very high,(209) 784-8128-812
+Rohan Chaudhary,75060,rohanchaudhary8387324@example.com,Sales,Contractor,759,57,Medium,Very high,Very high,(205) 686-3172-812
+Preeti Tripathi,0,preetitripathi5177289@example.com,No Job,Student,300,19,Low,low,Low,(215) 674-5065-812
+Kushagra Chowdhury,76514,kushagrachowdhury6905650@example.com,Customer Support,Self-Employed,412,21,Medium,low,Low,(216) 731-3434-812
+Jane Johnson,115340,janejohnson5368994@example.com,Finance,Employed Part-time,515,33,High,low,Medium,(215) 368-5064-812
+Suresh Tiwari,35992,sureshtiwari4530166@example.com,None,Retired,684,63,Very low,High,Very high,(209) 318-2040-812
+Preeti Khan,109139,preetikhan4112495@example.com,Customer Support,Employed Full-time,393,30,High,low,Medium,(200) 578-1613-812
+Shivam Sinha,8754,shivamsinha8493732@example.com,None,Retired,708,70,Very low,High,Very high,(224) 235-5440-812
+Vivek Malik,6562,vivekmalik2930020@example.com,None,Retired,684,84,Very low,High,Very high,(215) 668-1887-812
+Preeti Pandey,26892,preetipandey861341@example.com,None,Retired,708,70,Very low,High,Very high,(224) 607-1927-812
+Vijay Sen,0,vijaysen8348346@example.com,None,Unemployed,382,43,Very low,low,Medium,(215) 917-4905-812
+Aditya Gupta,1807,adityagupta1098064@example.com,Internship,Student,397,29,Very low,low,Low,(216) 662-4663-812
+Sakshi Saxena,35849,sakshisaxena4220757@example.com,None,Retired,778,80,Very low,Very high,Very high,(200) 812-3256-812
+Amit Mirza,64387,amitmirza170482@example.com,Engineering,Employed Part-time,683,25,Medium,High,Low,(224) 336-9115-812
+Sakshi Shinde,0,sakshishinde7704440@example.com,None,Unemployed,360,56,Very low,low,Very high,(200) 629-2286-812
+Amit Qureshi,95507,amitqureshi5806228@example.com,Marketing,Self-Employed,785,32,High,Very high,Medium,(215) 467-6502-812
+Krishna Pawar,58687,krishnapawar4534249@example.com,None,Retired,713,82,Low,High,Very high,(216) 643-4817-812
+Kritik Patil,94192,kritikpatil6012944@example.com,Sales,Self-Employed,698,19,High,High,Low,(224) 727-4230-812
+Arjun Yadav,119134,arjunyadav8169343@example.com,Marketing,Contractor,848,58,High,Very high,Very high,(215) 873-5364-812
+Ritu Chakraborty,107142,rituchakraborty2518144@example.com,Engineering,Self-Employed,515,34,High,low,Medium,(209) 302-3447-812
+Pranav Kurian,63872,pranavkurian8580376@example.com,Sales,Employed Part-time,374,52,Medium,low,High,(209) 258-2511-812
+Dinesh Kurian,103121,dineshkurian9148554@example.com,HR,Contractor,396,18,High,low,Low,(209) 698-5021-812
+Kajal Patel,52403,kajalpatel2953101@example.com,Operations,Employed Full-time,370,25,Low,low,Low,(224) 479-3556-812
+Mira Shetty,0,mirashetty7410750@example.com,None,Unemployed,368,59,Very low,low,Very high,(205) 583-5380-812
+Yash Shetty,100967,yashshetty8409987@example.com,Software Development,Self-Employed,354,34,High,low,Medium,(215) 789-1671-812
+Mansi Patil,67687,mansipatil4016335@example.com,Engineering,Employed Full-time,645,22,Medium,Medium,Low,(216) 246-4438-812
+Aarush Shah,90506,aarushshah8121323@example.com,Customer Support,Contractor,725,19,High,High,Low,(215) 575-8971-812
+Shreya Malhotra,13113,shreyamalhotra3558136@example.com,None,Retired,641,83,Very low,Medium,Very high,(209) 568-9860-812
+Tripti Miller,36798,triptimiller315277@example.com,None,Retired,780,77,Very low,Very high,Very high,(216) 961-1267-812
+Aarush Sen,0,aarushsen5168622@example.com,None,Unemployed,300,24,Very low,low,Low,(205) 921-2508-812
+Karan Rathore,82921,karanrathore1619748@example.com,HR,Self-Employed,690,25,High,High,Low,(216) 937-1483-812
+Sakshi Pandey,54527,sakshipandey616635@example.com,Sales,Employed Full-time,711,22,Low,High,Low,(209) 607-3978-812
+Harshit Shah,0,harshitshah2086112@example.com,No Job,Student,300,27,Medium,low,Low,(200) 975-8309-812
+Kushagra Rao,51475,kushagrarao7509985@example.com,Sales,Employed Part-time,470,51,Low,low,High,(200) 144-1933-812
+Naman Kumar,79118,namankumar2817750@example.com,Engineering,Employed Part-time,364,51,Medium,low,High,(216) 494-4609-812
+Ritu Menon,105833,ritumenon2601599@example.com,Sales,Employed Part-time,451,50,High,low,High,(200) 621-3371-812
+Anika Rathore,45436,anikarathore7728037@example.com,Customer Support,Contractor,392,32,Low,low,Medium,(224) 479-1079-812
+Harsha Shukla,51833,harshashukla1343169@example.com,None,Retired,745,72,Low,High,Very high,(200) 648-4093-812
+Ayaan Kurian,0,ayaankurian251839@example.com,No Job,Student,300,19,Low,low,Low,(215) 545-3271-812
+Yash Kumar,0,yashkumar7406263@example.com,No Job,Student,300,20,High,low,Low,(209) 865-2857-812
+Diya Rao,40877,diyarao9631124@example.com,Sales,Employed Part-time,675,43,Low,High,Medium,(224) 994-1721-812
+Ayaan Mirza,117625,ayaanmirza5111015@example.com,Software Development,Employed Part-time,672,32,High,High,Medium,(205) 108-6124-812
+Sonal Rathore,11152,sonalrathore9748318@example.com,Internship,Student,456,27,Very low,low,Low,(200) 593-9818-812
+Kriti Chaudhary,70392,kritichaudhary8193537@example.com,Marketing,Employed Part-time,560,52,Medium,Medium,High,(200) 799-8895-812
+John Agarwal,105037,johnagarwal8690472@example.com,Engineering,Contractor,664,27,High,High,Low,(224) 521-9635-812
+Diya Naik,57381,diyanaik1362130@example.com,Marketing,Employed Full-time,550,42,Low,Medium,Medium,(205) 961-9614-812
+Aditya Joseph,0,adityajoseph7420132@example.com,None,Unemployed,382,49,Very low,low,High,(224) 945-4045-812
+Kush Shah,8407,kushshah3135860@example.com,Internship,Student,496,22,Very low,low,Low,(215) 828-3837-812
+Gaurav Qureshi,60313,gauravqureshi8207016@example.com,Software Development,Employed Part-time,626,43,Medium,Medium,Medium,(224) 920-8230-812
+Manoj Malik,54414,manojmalik6725887@example.com,HR,Self-Employed,751,36,Low,Very high,Medium,(224) 940-1093-812
+Gaurav Pathan,47758,gauravpathan9522652@example.com,Software Development,Self-Employed,749,57,Low,High,Very high,(200) 993-2404-812
+Sneha Williams,103863,snehawilliams2383678@example.com,Finance,Employed Full-time,592,53,High,Medium,High,(209) 310-7799-812
+Yash Mirza,49097,yashmirza2841701@example.com,Finance,Employed Part-time,523,37,Low,low,Medium,(205) 514-9821-812
+Reyansh Sharma,53402,reyanshsharma4732458@example.com,Marketing,Contractor,471,28,Low,low,Low,(216) 167-1289-812
+Ansh Das,50743,anshdas8864037@example.com,Finance,Employed Part-time,305,35,Low,low,Medium,(224) 201-3539-812
+Vijay Kulkarni,0,vijaykulkarni6484671@example.com,None,Unemployed,343,28,Very low,low,Low,(224) 328-8636-812
+Robert Kumar,72612,robertkumar9846981@example.com,Finance,Employed Part-time,407,37,Medium,low,Medium,(224) 442-5703-812
+Gaurav Naik,42437,gauravnaik359419@example.com,None,Retired,622,79,Low,Medium,Very high,(216) 309-2948-812
+Kunal Malhotra,25907,kunalmalhotra346926@example.com,None,Retired,736,84,Very low,High,Very high,(209) 238-2588-812
+Shivam Naik,75572,shivamnaik3681152@example.com,HR,Employed Part-time,322,33,Medium,low,Medium,(200) 709-8036-812
+Robert Tripathi,110192,roberttripathi5843198@example.com,Sales,Employed Part-time,831,37,High,Very high,Medium,(205) 378-9348-812
+Krishna Joshi,94756,krishnajoshi8677490@example.com,Software Development,Contractor,596,38,High,Medium,Medium,(215) 558-7647-812
+Vishal Naik,0,vishalnaik44048@example.com,None,Unemployed,430,31,Very low,low,Medium,(215) 765-7935-812
+Arjun Nair,33081,arjunnair5851628@example.com,None,Retired,724,65,Very low,High,Very high,(216) 405-7750-812
+Ayaan Rao,11191,ayaanrao825482@example.com,Internship,Student,439,25,Very low,low,Low,(209) 181-9843-812
+Pooja Sen,29921,poojasen3923193@example.com,None,Retired,605,60,Very low,Medium,Very high,(216) 508-8104-812
+Sanjay Rao,2598,sanjayrao4134368@example.com,None,Retired,719,67,Very low,High,Very high,(216) 929-8872-812
+Tripti Joshi,47003,triptijoshi8421966@example.com,Engineering,Self-Employed,632,27,Low,Medium,Low,(209) 301-9766-812
+Karan Desai,0,karandesai9761673@example.com,No Job,Student,300,25,High,low,Low,(224) 945-9451-812
+Abhay Malik,76616,abhaymalik3338610@example.com,Sales,Self-Employed,315,22,Medium,low,Low,(209) 214-6860-812
+Riya Shah,63625,riyashah5657343@example.com,Operations,Contractor,593,33,Medium,Medium,Medium,(200) 894-1018-812
+Naman Saxena,0,namansaxena2934542@example.com,None,Unemployed,322,38,Very low,low,Medium,(215) 728-7441-812
+Pranav Kurian,88326,pranavkurian5217557@example.com,Finance,Employed Part-time,462,39,High,low,Medium,(205) 428-5325-812
+Suresh Gandhi,0,sureshgandhi3549818@example.com,None,Unemployed,310,22,Very low,low,Low,(209) 620-6038-812
+Sarah Jha,87110,sarahjha5384304@example.com,Software Development,Employed Part-time,562,27,High,Medium,Low,(209) 804-3665-812
+Tara Menon,83748,taramenon2061471@example.com,Engineering,Contractor,650,25,High,High,Low,(205) 349-7801-812
+Divya Malik,69217,divyamalik65439@example.com,Operations,Employed Part-time,353,27,Medium,low,Low,(209) 750-9672-812
+Ira Pawar,71515,irapawar7675427@example.com,Software Development,Employed Full-time,801,22,Medium,Very high,Low,(224) 823-4830-812
+Sonal Khan,75481,sonalkhan3257361@example.com,Software Development,Employed Part-time,565,48,Medium,Medium,High,(216) 890-6331-812
+Vineet Mukherjee,0,vineetmukherjee8688957@example.com,None,Unemployed,437,42,Very low,low,Medium,(215) 122-5443-812
+Mike Bhat,57802,mikebhat5271291@example.com,None,Retired,707,81,Low,High,Very high,(205) 423-9829-812
+Anika Malik,57968,anikamalik2012471@example.com,Finance,Self-Employed,357,36,Low,low,Medium,(215) 888-2746-812
+Sakshi Kurian,100000,sakshikurian4779205@example.com,Operations,Employed Part-time,506,51,High,low,High,(215) 608-9075-812
+Preeti Tiwari,104832,preetitiwari9398867@example.com,Software Development,Contractor,527,43,High,low,Medium,(215) 320-8604-812
+Anukool Shetty,75751,anukoolshetty9988407@example.com,Operations,Employed Part-time,698,31,Medium,High,Medium,(209) 994-8457-812
+Saanvi Ali,42057,saanviali1955382@example.com,Operations,Employed Part-time,585,24,Low,Medium,Low,(200) 936-3578-812
+Arya Rai,68610,aryarai9633013@example.com,Engineering,Self-Employed,647,56,Medium,Medium,Very high,(215) 419-4046-812
+Ajay Pawar,73872,ajaypawar7873800@example.com,Customer Support,Employed Part-time,640,18,Medium,Medium,Low,(205) 711-6726-812
+Anvi Joshi,28911,anvijoshi5000831@example.com,None,Retired,677,83,Very low,High,Very high,(216) 237-4028-812
+Ayaan Tripathi,72348,ayaantripathi5601441@example.com,HR,Self-Employed,681,29,Medium,High,Low,(216) 900-3902-812
+Nikhil Mishra,13289,nikhilmishra410909@example.com,Internship,Student,339,18,Very low,low,Low,(200) 256-2131-812
+Pooja Rai,58301,poojarai9800663@example.com,None,Retired,614,65,Low,Medium,Very high,(224) 374-4362-812
+Robert Pandey,57349,robertpandey2546465@example.com,None,Retired,611,66,Low,Medium,Very high,(205) 526-9112-812
+Sarah Gupta,0,sarahgupta8372859@example.com,None,Unemployed,350,27,Very low,low,Low,(224) 481-4641-812
+Shiv Rao,83381,shivrao4727521@example.com,Marketing,Self-Employed,639,43,High,Medium,Medium,(205) 548-2912-812
+Aishwarya Joshi,115487,aishwaryajoshi759667@example.com,Marketing,Employed Part-time,629,31,High,Medium,Medium,(205) 826-2594-812
+Ansh Anderson,0,anshanderson8731149@example.com,None,Unemployed,362,41,Very low,low,Medium,(215) 601-2436-812
+Nikhil Rao,800,nikhilrao2068267@example.com,Internship,Student,442,23,Very low,low,Low,(224) 136-9844-812
+Aadhya Yadav,0,aadhyayadav2273898@example.com,None,Unemployed,366,32,Very low,low,Medium,(205) 446-5231-812
+Gaurav Naik,31709,gauravnaik5109523@example.com,None,Retired,672,62,Very low,High,Very high,(216) 516-4152-812
+Harshit Chandra,118439,harshitchandra2729891@example.com,Customer Support,Contractor,391,35,High,low,Medium,(200) 577-5946-812
+Pranav Agarwal,79671,pranavagarwal1690062@example.com,HR,Self-Employed,384,30,Medium,low,Medium,(224) 520-4597-812
+Rishi Hussain,57934,rishihussain4484823@example.com,Engineering,Self-Employed,367,21,Low,low,Low,(216) 453-1845-812
+Mike Pawar,47286,mikepawar2442015@example.com,Marketing,Self-Employed,362,51,Low,low,High,(209) 960-4637-812
+Aniket Kurian,0,aniketkurian8397601@example.com,None,Unemployed,370,58,Very low,low,Very high,(216) 646-7732-812
+Ravi Rai,67184,ravirai6891789@example.com,Finance,Employed Part-time,780,28,Medium,Very high,Low,(216) 445-2300-812
+Kavya Chaudhary,0,kavyachaudhary5049920@example.com,No Job,Student,300,28,Medium,low,Low,(224) 979-5483-812
+Kunal Anderson,5292,kunalanderson4435126@example.com,None,Retired,778,63,Very low,Very high,Very high,(209) 952-2649-812
+Dev Singh,42950,devsingh6979604@example.com,Engineering,Employed Part-time,488,36,Low,low,Medium,(200) 427-1076-812
+Ira Shah,41102,irashah959809@example.com,Finance,Contractor,653,31,Low,High,Medium,(216) 506-2041-812
+Aryan Mishra,10684,aryanmishra5453825@example.com,Internship,Student,322,28,Very low,low,Low,(200) 846-3471-812
+Rahul Gupta,77437,rahulgupta6199995@example.com,Marketing,Self-Employed,584,54,Medium,Medium,High,(209) 447-7636-812
+Aadhya Jha,3165,aadhyajha6422055@example.com,Internship,Student,439,20,Very low,low,Low,(205) 508-7094-812
+Karan Reddy,106090,karanreddy5232685@example.com,Sales,Self-Employed,600,57,High,Medium,Very high,(216) 426-8012-812
+Arya Yadav,19317,aryayadav5529068@example.com,None,Retired,609,65,Very low,Medium,Very high,(200) 741-7720-812
+Meera Tripathi,0,meeratripathi7667167@example.com,None,Unemployed,404,20,Very low,low,Low,(200) 876-8432-812
+Amitabh Mukherjee,40074,amitabhmukherjee8371471@example.com,None,Retired,637,80,Low,Medium,Very high,(215) 525-9981-812
+Rahul Kumar,23165,rahulkumar2251477@example.com,None,Retired,751,74,Very low,Very high,Very high,(205) 717-7284-812
+Dev Nair,71070,devnair4567220@example.com,Sales,Contractor,419,41,Medium,low,Medium,(200) 281-4095-812
+Tanmay Mukherjee,47896,tanmaymukherjee1758757@example.com,Operations,Contractor,313,56,Low,low,Very high,(224) 955-1564-812
+Diya Chatterjee,6745,diyachatterjee1609849@example.com,Internship,Student,404,21,Very low,low,Low,(205) 730-4608-812
+Vivaan Nair,0,vivaannair9751862@example.com,None,Unemployed,396,30,Very low,low,Medium,(216) 263-5187-812
+Sarah Dubey,85150,sarahdubey8815022@example.com,Software Development,Employed Full-time,374,43,High,low,Medium,(200) 864-4393-812
+Yash Jha,7783,yashjha3015140@example.com,Internship,Student,332,27,Very low,low,Low,(215) 835-6081-812
+Pooja Menon,52089,poojamenon7346653@example.com,Operations,Self-Employed,595,27,Low,Medium,Low,(215) 255-5783-812
+Karan Patel,0,karanpatel546102@example.com,No Job,Student,300,24,High,low,Low,(205) 330-5063-812
+Manoj Kumar,58787,manojkumar6259676@example.com,HR,Employed Part-time,511,28,Low,low,Low,(216) 672-6613-812
+Amit Desai,3020,amitdesai6870348@example.com,Internship,Student,352,24,Very low,low,Low,(215) 761-1023-812
+Aishwarya Iyer,46680,aishwaryaiyer1505936@example.com,None,Retired,765,71,Low,Very high,Very high,(216) 627-2059-812
+Siddharth Mehta,69593,siddharthmehta8410999@example.com,Sales,Contractor,365,44,Medium,low,Medium,(224) 208-5416-812
+Rishi Kulkarni,21620,rishikulkarni8318670@example.com,None,Retired,664,61,Very low,High,Very high,(216) 979-2234-812
+Rakesh Jain,0,rakeshjain49422@example.com,None,Unemployed,402,55,Very low,low,Very high,(209) 300-6262-812
+Shreya Shukla,40001,shreyashukla6409107@example.com,None,Retired,688,69,Low,High,Very high,(209) 948-5405-812
+Ishaan Kurian,82674,ishaankurian1357649@example.com,Sales,Self-Employed,548,38,High,low,Medium,(205) 925-1556-812
+Nisha Chakraborty,13047,nishachakraborty1924117@example.com,None,Retired,707,67,Very low,High,Very high,(224) 302-4676-812
+Aniket Dubey,83186,aniketdubey8817668@example.com,Engineering,Employed Part-time,619,31,High,Medium,Medium,(200) 416-2112-812
+Suresh Mehta,0,sureshmehta2786005@example.com,No Job,Student,300,18,Medium,low,Low,(224) 905-9140-812
+Shreya George,12239,shreyageorge8537674@example.com,Internship,Student,536,23,Very low,low,Low,(205) 996-3506-812
+Aadhya Pathan,46333,aadhyapathan4119167@example.com,None,Retired,632,63,Low,Medium,Very high,(215) 180-3732-812
+Aishwarya Mukherjee,40339,aishwaryamukherjee8331269@example.com,None,Retired,690,69,Low,High,Very high,(205) 359-1956-812
+Robert Shinde,83708,robertshinde3384529@example.com,Finance,Employed Part-time,580,18,High,Medium,Low,(200) 437-3935-812
+Kiran Desai,106906,kirandesai1417268@example.com,Operations,Employed Full-time,325,43,High,low,Medium,(215) 581-4815-812
+Deepak Shukla,50536,deepakshukla7970240@example.com,Marketing,Employed Full-time,800,59,Low,Very high,Very high,(209) 527-4871-812
+John Tiwari,71954,johntiwari1647616@example.com,Marketing,Contractor,700,47,Medium,High,High,(200) 368-6251-812
+Tanishka Pandey,88188,tanishkapandey8241509@example.com,Sales,Employed Full-time,765,32,High,Very high,Medium,(215) 126-3366-812
+Rudra Patil,44580,rudrapatil521748@example.com,Marketing,Self-Employed,307,59,Low,low,Very high,(224) 718-1774-812
+Siddhant Pathan,62047,siddhantpathan442244@example.com,HR,Self-Employed,740,33,Medium,High,Medium,(209) 815-8702-812
+Ayaan Jain,112259,ayaanjain7977725@example.com,Operations,Self-Employed,540,49,High,low,High,(224) 126-6243-812
+Shivam Joshi,102794,shivamjoshi9537060@example.com,Software Development,Self-Employed,719,45,High,High,High,(215) 168-6878-812
+Sarah George,0,sarahgeorge2872603@example.com,None,Unemployed,427,50,Very low,low,High,(209) 284-6072-812
+Jessica Pandey,60808,jessicapandey2193851@example.com,Customer Support,Contractor,823,30,Medium,Very high,Medium,(200) 763-9546-812
+Pranav Qureshi,4611,pranavqureshi3635526@example.com,Internship,Student,526,16,Very low,low,Low,(200) 643-5214-812
+Ayaan Sharma,79445,ayaansharma4169853@example.com,Sales,Contractor,612,57,Medium,Medium,Very high,(216) 217-3768-812
+Mira Tiwari,90112,miratiwari6290572@example.com,Sales,Employed Full-time,580,20,High,Medium,Low,(205) 596-7080-812
+Kriti Pathan,102479,kritipathan6355789@example.com,Customer Support,Employed Part-time,329,59,High,low,Very high,(224) 632-9882-812
+Shiv Anderson,76093,shivanderson1887768@example.com,Sales,Employed Part-time,618,37,Medium,Medium,Medium,(224) 661-1572-812
+Mike Qureshi,71548,mikequreshi9205385@example.com,Marketing,Self-Employed,850,23,Medium,Very high,Low,(200) 513-9333-812
+Karan Kumar,57203,karankumar4923646@example.com,Customer Support,Employed Full-time,320,33,Low,low,Medium,(200) 184-5991-812
+Shiv Rao,0,shivrao8083953@example.com,None,Unemployed,420,41,Very low,low,Medium,(209) 698-6104-812
+Bhavna Chatterjee,83250,bhavnachatterjee3428786@example.com,Customer Support,Employed Part-time,421,49,High,low,High,(209) 565-5374-812
+Nikhil Kumar,0,nikhilkumar4255521@example.com,None,Unemployed,308,54,Very low,low,High,(209) 684-2191-812
+Ravi Tripathi,33015,ravitripathi6603832@example.com,None,Retired,799,82,Very low,Very high,Very high,(205) 735-6535-812
+Karan Kumar,80472,karankumar5059861@example.com,Sales,Employed Full-time,374,26,High,low,Low,(215) 555-7674-812
+Anil Thomas,0,anilthomas6488067@example.com,None,Unemployed,356,26,Very low,low,Low,(205) 378-2623-812
+Kriti Reddy,0,kritireddy521142@example.com,None,Unemployed,403,33,Very low,low,Medium,(215) 870-6204-812
+Kajal Joshi,104390,kajaljoshi1447756@example.com,Finance,Self-Employed,595,35,High,Medium,Medium,(200) 366-6808-812
+Mansi Kumar,94852,mansikumar3596366@example.com,Sales,Employed Full-time,716,19,High,High,Low,(209) 678-8753-812
+Anjali Joshi,18631,anjalijoshi5809663@example.com,None,Retired,658,78,Very low,High,Very high,(209) 268-6024-812
+Kunal Rao,97274,kunalrao3338079@example.com,Engineering,Contractor,476,19,High,low,Low,(216) 437-2627-812
+Saanvi Nair,77877,saanvinair2892324@example.com,Customer Support,Employed Full-time,421,49,Medium,low,High,(216) 504-8816-812
+Harshit Khan,24051,harshitkhan1933994@example.com,None,Retired,730,77,Very low,High,Very high,(215) 596-4725-812
+Jane George,94423,janegeorge7339699@example.com,Customer Support,Employed Part-time,492,28,High,low,Low,(215) 530-6306-812
+Rahul Mehta,0,rahulmehta2218150@example.com,None,Unemployed,375,43,Very low,low,Medium,(224) 964-8038-812
+Sanjay George,55014,sanjaygeorge2022496@example.com,Customer Support,Self-Employed,619,29,Low,Medium,Low,(224) 948-2385-812
+Yash Nair,92523,yashnair85468@example.com,Customer Support,Contractor,321,52,High,low,High,(215) 845-4189-812
+Sai Ali,59649,saiali18106@example.com,Marketing,Contractor,581,19,Low,Medium,Low,(200) 727-7240-812
+Yash Das,79613,yashdas8474646@example.com,Engineering,Contractor,376,32,Medium,low,Medium,(215) 556-4147-812
+Siddharth Hussain,0,siddharthhussain9637170@example.com,No Job,Student,300,18,Low,low,Low,(205) 480-1314-812
+Gunjan Ali,40909,gunjanali1969407@example.com,None,Retired,715,61,Low,High,Very high,(205) 844-3341-812
+Dinesh Kulkarni,27973,dineshkulkarni1936558@example.com,None,Retired,619,63,Very low,Medium,Very high,(209) 448-9451-812
+Tara Mukherjee,0,taramukherjee3458930@example.com,None,Unemployed,431,33,Very low,low,Medium,(205) 490-5988-812
+Aadhya Iyer,0,aadhyaiyer4856034@example.com,None,Unemployed,321,28,Very low,low,Low,(215) 158-5783-812
+Robert Shetty,87266,robertshetty9361379@example.com,Sales,Employed Part-time,421,20,High,low,Low,(215) 460-6106-812
+Vijay Joshi,54836,vijayjoshi797196@example.com,Finance,Contractor,365,47,Low,low,High,(216) 879-9945-812
+Rudra Joshi,119133,rudrajoshi8397533@example.com,Sales,Contractor,846,56,High,Very high,Very high,(209) 323-6640-812
+Diya Farooqi,68299,diyafarooqi7737689@example.com,Marketing,Employed Full-time,376,23,Medium,low,Low,(200) 917-5680-812
+Pranav Chakraborty,9064,pranavchakraborty9987254@example.com,Internship,Student,374,25,Very low,low,Low,(209) 486-4875-812
+Anil Gandhi,66121,anilgandhi5640786@example.com,Customer Support,Employed Part-time,757,23,Medium,Very high,Low,(205) 477-8407-812
+Tanmay Joshi,78789,tanmayjoshi5017433@example.com,Customer Support,Self-Employed,716,47,Medium,High,High,(205) 422-6521-812
+Diya Yadav,0,diyayadav7471708@example.com,None,Unemployed,426,55,Very low,low,Very high,(216) 430-3836-812
+Rohan Reddy,50907,rohanreddy4634229@example.com,Operations,Employed Full-time,323,28,Low,low,Low,(224) 527-9049-812
+Aarohi Mirza,110178,aarohimirza1045191@example.com,Marketing,Employed Part-time,338,53,High,low,High,(216) 546-6239-812
+Rakesh Pawar,3197,rakeshpawar2109083@example.com,Internship,Student,546,19,Very low,low,Low,(205) 257-6269-812
+Krishna Saxena,34466,krishnasaxena9129254@example.com,None,Retired,671,79,Very low,High,Very high,(215) 403-5862-812
+Shreya Kumar,100379,shreyakumar8806945@example.com,HR,Employed Part-time,554,46,High,Medium,High,(224) 602-2583-812
+Manoj Pandey,44272,manojpandey5541947@example.com,Operations,Contractor,396,45,Low,low,High,(224) 219-8609-812
+Rahul Bhat,46046,rahulbhat2758140@example.com,Engineering,Contractor,442,46,Low,low,High,(200) 736-4353-812
+Anil Shah,59897,anilshah721373@example.com,Operations,Employed Part-time,468,52,Low,low,High,(205) 748-3642-812
+Sarah Kumar,49899,sarahkumar7595758@example.com,Sales,Contractor,840,18,Low,Very high,Low,(215) 593-9240-812
+Amit Shetty,0,amitshetty9875526@example.com,No Job,Student,300,29,Medium,low,Low,(205) 447-8874-812
+Rahul Joshi,30316,rahuljoshi3462936@example.com,None,Retired,670,83,Very low,High,Very high,(200) 343-7604-812
+Deepak Khan,84217,deepakkhan7083216@example.com,Engineering,Employed Part-time,415,59,High,low,Very high,(205) 977-8575-812
+Kunal Chaudhary,89978,kunalchaudhary8055174@example.com,Operations,Employed Part-time,716,25,High,High,Low,(216) 388-6501-812
+Vikram Kurian,12173,vikramkurian9316977@example.com,None,Retired,722,84,Very low,High,Very high,(224) 121-3227-812
+Shiv Dubey,0,shivdubey9683432@example.com,None,Unemployed,320,27,Very low,low,Low,(215) 512-4504-812
+Ananya Chaudhary,41185,ananyachaudhary3750336@example.com,Software Development,Employed Part-time,527,23,Low,low,Low,(200) 339-6230-812
+Harsha Hussain,12509,harshahussain3024553@example.com,Internship,Student,454,17,Very low,low,Low,(224) 330-3038-812
+Pranav Chaudhary,44238,pranavchaudhary7749029@example.com,Operations,Employed Part-time,518,54,Low,low,High,(216) 239-3582-812
+Suresh Ali,0,sureshali4577144@example.com,None,Unemployed,301,38,Very low,low,Medium,(216) 993-3790-812
+Naman Dubey,78753,namandubey5850799@example.com,Operations,Employed Part-time,825,41,Medium,Very high,Medium,(215) 826-3271-812
+Shiv Gandhi,10215,shivgandhi4489851@example.com,Internship,Student,379,19,Very low,low,Low,(200) 862-4077-812
+Diya Ali,0,diyaali1220266@example.com,None,Unemployed,311,26,Very low,low,Low,(224) 895-6367-812
+Yash Yadav,52377,yashyadav3911824@example.com,None,Retired,664,77,Low,High,Very high,(200) 494-8835-812
+Aarohi Jain,84616,aarohijain946446@example.com,Marketing,Self-Employed,529,38,High,low,Medium,(205) 143-7582-812
+Chirag Sen,48616,chiragsen556534@example.com,Operations,Employed Full-time,512,36,Low,low,Medium,(205) 642-7159-812
+Aarav Reddy,102376,aaravreddy7677773@example.com,Finance,Contractor,744,59,High,High,Very high,(209) 210-6731-812
+Vivaan Patil,65215,vivaanpatil2250794@example.com,Sales,Self-Employed,693,39,Medium,High,Medium,(215) 240-4525-812
+Ansh Kumar,65181,anshkumar9095230@example.com,Sales,Contractor,731,39,Medium,High,Medium,(224) 284-1262-812
+Kunal Mishra,54309,kunalmishra6555157@example.com,Sales,Employed Part-time,348,28,Low,low,Low,(209) 239-7206-812
+Deepak Sharma,103288,deepaksharma5017055@example.com,Marketing,Employed Full-time,641,41,High,Medium,Medium,(209) 535-8276-812
+Tanishka Ghosh,0,tanishkaghosh991732@example.com,No Job,Student,300,20,Medium,low,Low,(200) 761-7770-812
+Aniket Naik,0,aniketnaik9463928@example.com,None,Unemployed,373,43,Very low,low,Medium,(205) 985-4502-812
+Dinesh Ali,65324,dineshali6361866@example.com,Engineering,Contractor,560,48,Medium,Medium,High,(200) 136-6585-812
+Kajal Reddy,82891,kajalreddy186964@example.com,Software Development,Self-Employed,366,59,High,low,Very high,(200) 488-3140-812
+Emily Thomas,29740,emilythomas1979876@example.com,None,Retired,760,60,Very low,Very high,Very high,(205) 625-2799-812
+Shivam Mishra,10877,shivammishra9322626@example.com,Internship,Student,495,17,Very low,low,Low,(200) 662-4361-812
+Nisha Ghosh,55685,nishaghosh6363912@example.com,Software Development,Contractor,422,51,Low,low,High,(215) 658-3248-812
+Vishal Farooqi,117227,vishalfarooqi6753516@example.com,Marketing,Employed Part-time,377,51,High,low,High,(216) 410-2926-812
+Diya Farooqi,95016,diyafarooqi4555671@example.com,Sales,Employed Part-time,485,43,High,low,Medium,(216) 662-3922-812
+Anjali Hussain,49560,anjalihussain1418946@example.com,Operations,Self-Employed,750,37,Low,Very high,Medium,(224) 331-4540-812
+Anil Jha,92608,aniljha8100109@example.com,Customer Support,Self-Employed,738,46,High,High,High,(215) 565-6706-812
+Ravi Bhat,64446,ravibhat7727056@example.com,Marketing,Self-Employed,577,40,Medium,Medium,Medium,(209) 643-2687-812
+Tanmay Tiwari,42577,tanmaytiwari4591962@example.com,Engineering,Self-Employed,759,24,Low,Very high,Low,(200) 585-3222-812
+Suresh Jha,57466,sureshjha1525602@example.com,None,Retired,666,73,Low,High,Very high,(205) 835-1890-812
+Suresh Malik,0,sureshmalik4582775@example.com,No Job,Student,300,16,Medium,low,Low,(216) 579-2774-812
+Anil Sharma,102278,anilsharma7882587@example.com,Marketing,Self-Employed,509,40,High,low,Medium,(200) 953-6399-812
+Vihaan Mehta,48643,vihaanmehta6133276@example.com,Sales,Self-Employed,755,36,Low,Very high,Medium,(215) 313-4810-812
+Neha Kumar,37781,nehakumar8165379@example.com,None,Retired,610,83,Very low,Medium,Very high,(205) 475-4049-812
+Ansh Khan,0,anshkhan3531316@example.com,No Job,Student,300,17,Low,low,Low,(205) 446-9073-812
+Krishna Pawar,59992,krishnapawar4726527@example.com,None,Retired,770,68,Low,Very high,Very high,(205) 833-1387-812
+Ayaan Jha,41854,ayaanjha5352907@example.com,HR,Contractor,399,37,Low,low,Medium,(200) 633-8266-812
+John Dubey,59831,johndubey559246@example.com,HR,Contractor,589,31,Low,Medium,Medium,(200) 137-5633-812
+Mira Saxena,19823,mirasaxena9111734@example.com,None,Retired,754,83,Very low,Very high,Very high,(200) 579-1576-812
+Sakshi Chakraborty,115753,sakshichakraborty284788@example.com,HR,Employed Full-time,417,46,High,low,High,(205) 664-5343-812
+Ananya Khan,0,ananyakhan8987884@example.com,None,Unemployed,430,49,Very low,low,High,(224) 326-3521-812
+Mira Hussain,0,mirahussain7458171@example.com,None,Unemployed,315,33,Very low,low,Medium,(209) 177-9553-812
+Robert Shukla,70809,robertshukla4141227@example.com,Sales,Contractor,426,23,Medium,low,Low,(224) 748-2053-812
+Ansh Chaudhary,94658,anshchaudhary5905622@example.com,Engineering,Employed Part-time,413,50,High,low,High,(216) 119-6425-812
+Aarohi Saxena,93160,aarohisaxena6839164@example.com,Engineering,Employed Part-time,829,34,High,Very high,Medium,(209) 270-5990-812
+Ajay Varghese,101968,ajayvarghese7458724@example.com,Finance,Self-Employed,333,28,High,low,Low,(209) 584-2848-812
+Rakesh Rao,0,rakeshrao6390557@example.com,None,Unemployed,358,30,Very low,low,Medium,(215) 821-2183-812
+Vineet Kumar,44722,vineetkumar5405329@example.com,HR,Self-Employed,406,56,Low,low,Very high,(200) 234-7219-812
+Diya Joseph,46271,diyajoseph7343196@example.com,Marketing,Contractor,591,52,Low,Medium,High,(209) 728-3240-812
+Nitin Shetty,54411,nitinshetty8425457@example.com,None,Retired,793,66,Low,Very high,Very high,(205) 110-5983-812
+Sakshi Yadav,55458,sakshiyadav8484838@example.com,Customer Support,Self-Employed,802,56,Low,Very high,Very high,(209) 294-6252-812
+Vishal Nair,17523,vishalnair1248040@example.com,None,Retired,653,60,Very low,High,Very high,(200) 818-4039-812
+Jane Chakraborty,9045,janechakraborty5359363@example.com,Internship,Student,529,17,Very low,low,Low,(215) 400-4237-812
+Tanishka Kumar,12949,tanishkakumar9811211@example.com,None,Retired,633,77,Very low,Medium,Very high,(205) 250-6267-812
+Krishna Chatterjee,105373,krishnachatterjee6457689@example.com,Operations,Employed Part-time,355,59,High,low,Very high,(209) 235-7705-812
+Ayaan Joshi,83899,ayaanjoshi1869183@example.com,Finance,Employed Full-time,616,44,High,Medium,Medium,(209) 927-2488-812
+Sakshi Shetty,72106,sakshishetty1802849@example.com,Marketing,Employed Full-time,375,47,Medium,low,High,(215) 194-9128-812
+Abhay Tiwari,67106,abhaytiwari1127105@example.com,HR,Self-Employed,408,25,Medium,low,Low,(205) 204-3108-812
+Kunal Rathore,66248,kunalrathore7052644@example.com,HR,Employed Part-time,713,55,Medium,High,Very high,(205) 779-6622-812
+Ravi Patel,84641,ravipatel9298604@example.com,Operations,Employed Full-time,375,38,High,low,Medium,(215) 172-6167-812
+Deepak Malik,72485,deepakmalik8547811@example.com,Engineering,Contractor,354,33,Medium,low,Medium,(209) 443-1712-812
+Kunal Dubey,0,kunaldubey8198348@example.com,None,Unemployed,378,32,Very low,low,Medium,(224) 641-1963-812
+Dinesh Shinde,108305,dineshshinde279982@example.com,Customer Support,Employed Part-time,340,23,High,low,Low,(209) 878-4390-812
+Deepak Verma,49807,deepakverma5000105@example.com,None,Retired,626,66,Low,Medium,Very high,(224) 994-2856-812
+Vivaan Gandhi,12374,vivaangandhi4211512@example.com,Internship,Student,523,22,Very low,low,Low,(224) 141-4447-812
+Shivam Gandhi,68114,shivamgandhi4462547@example.com,Operations,Contractor,350,35,Medium,low,Medium,(215) 671-8267-812
+Harshit Saxena,65288,harshitsaxena1079117@example.com,Sales,Employed Part-time,693,58,Medium,High,Very high,(224) 302-8246-812
+Anna Agarwal,118617,annaagarwal2932528@example.com,Sales,Self-Employed,326,34,High,low,Medium,(216) 315-2838-812
+Aniket George,2449,aniketgeorge7182024@example.com,Internship,Student,350,26,Very low,low,Low,(216) 507-5360-812
+Anukool Joshi,106394,anukooljoshi8739704@example.com,Sales,Employed Full-time,545,36,High,low,Medium,(216) 325-3277-812
+Rakesh Pawar,115778,rakeshpawar3064049@example.com,HR,Employed Full-time,740,39,High,High,Medium,(200) 159-2409-812
+Tanishka Patel,15873,tanishkapatel8011134@example.com,None,Retired,665,84,Very low,High,Very high,(205) 852-8695-812
+Anil Naik,14230,anilnaik1721900@example.com,Internship,Student,342,22,Very low,low,Low,(209) 595-6695-812
+Ajay Dubey,51513,ajaydubey2935202@example.com,None,Retired,797,80,Low,Very high,Very high,(215) 739-9271-812
+Saanvi Shah,55131,saanvishah775719@example.com,Marketing,Contractor,825,43,Low,Very high,Medium,(209) 138-6766-812
+Gaurav Chaudhary,57698,gauravchaudhary3655541@example.com,Sales,Employed Part-time,451,26,Low,low,Low,(200) 854-6305-812
+Vishal Ghosh,46533,vishalghosh6050673@example.com,Finance,Self-Employed,402,41,Low,low,Medium,(215) 163-8120-812
+Ira Ali,0,iraali2432807@example.com,None,Unemployed,391,22,Very low,low,Low,(209) 563-8292-812
+Vishal Khan,0,vishalkhan9165569@example.com,None,Unemployed,350,55,Very low,low,Very high,(216) 580-4154-812
+Ravi Pandey,43945,ravipandey8350858@example.com,None,Retired,646,62,Low,Medium,Very high,(215) 913-6073-812
+Arjun Menon,49084,arjunmenon2915324@example.com,Engineering,Employed Full-time,325,53,Low,low,High,(216) 826-9299-812
+Sumit Shah,0,sumitshah4238064@example.com,No Job,Student,300,26,Medium,low,Low,(216) 788-8778-812
+Yash George,47281,yashgeorge5968954@example.com,Engineering,Self-Employed,523,56,Low,low,Very high,(205) 755-4170-812
+Gaurav Sen,0,gauravsen3104918@example.com,None,Unemployed,395,56,Very low,low,Very high,(224) 424-9244-812
+Kriti Jha,0,kritijha2003078@example.com,None,Unemployed,398,43,Very low,low,Medium,(224) 647-3569-812
+Pooja Shetty,83789,poojashetty349867@example.com,Sales,Contractor,416,31,High,low,Medium,(216) 252-2630-812
+Rohan Dasgupta,102236,rohandasgupta8829090@example.com,Sales,Employed Full-time,358,29,High,low,Low,(200) 210-3954-812
+Ayaan Khan,0,ayaankhan7709583@example.com,No Job,Student,300,16,Medium,low,Low,(224) 830-4206-812
+Kiran Malik,82138,kiranmalik7156732@example.com,Marketing,Employed Full-time,663,43,High,High,Medium,(209) 686-3203-812
+Diya Menon,59268,diyamenon7892757@example.com,Software Development,Employed Part-time,844,57,Low,Very high,Very high,(205) 462-4360-812
+Nitin Kurian,29257,nitinkurian7761372@example.com,None,Retired,733,61,Very low,High,Very high,(216) 906-7014-812
+Ayaan Pawar,11075,ayaanpawar4345097@example.com,None,Retired,614,80,Very low,Medium,Very high,(209) 255-3035-812
+Kritik Desai,6395,kritikdesai9352859@example.com,Internship,Student,450,19,Very low,low,Low,(215) 768-9869-812
+Anukool Rathore,11584,anukoolrathore126490@example.com,None,Retired,740,70,Very low,High,Very high,(200) 652-6331-812
+Ajay Kumar,106415,ajaykumar4703230@example.com,Marketing,Employed Part-time,580,43,High,Medium,Medium,(209) 335-2585-812
+Ishaan Gupta,104462,ishaangupta2847822@example.com,Sales,Self-Employed,402,24,High,low,Low,(216) 540-7975-812
+Sakshi Chakraborty,0,sakshichakraborty4964641@example.com,None,Unemployed,411,49,Very low,low,High,(209) 323-8957-812
+Vivaan Tripathi,56984,vivaantripathi6274644@example.com,None,Retired,600,60,Low,Medium,Very high,(205) 614-2013-812
+Nitin Kulkarni,49611,nitinkulkarni7525267@example.com,None,Retired,671,72,Low,High,Very high,(216) 701-5986-812
+Gunjan Mehta,52968,gunjanmehta6539287@example.com,None,Retired,621,60,Low,Medium,Very high,(200) 140-9898-812
+Vivaan Shukla,78634,vivaanshukla5996845@example.com,Sales,Contractor,680,43,Medium,High,Medium,(224) 168-5783-812
+Anil Pandey,44897,anilpandey2345708@example.com,HR,Self-Employed,385,43,Low,low,Medium,(224) 982-2579-812
+Riya Rai,108655,riyarai9051849@example.com,Marketing,Employed Part-time,740,58,High,High,Very high,(209) 936-6980-812
+Ira Chakraborty,37886,irachakraborty5646004@example.com,None,Retired,697,68,Very low,High,Very high,(209) 577-4908-812
+Shiv George,0,shivgeorge9549172@example.com,None,Unemployed,300,29,Very low,low,Low,(200) 265-6004-812
+Rudra Farooqi,0,rudrafarooqi2188641@example.com,No Job,Student,300,16,Medium,low,Low,(216) 111-1569-812
+Preeti Brown,46168,preetibrown9425163@example.com,Software Development,Self-Employed,352,36,Low,low,Medium,(205) 190-4638-812
+Vivek Pawar,10965,vivekpawar9496619@example.com,Internship,Student,307,22,Very low,low,Low,(209) 686-5290-812
+Ritu Jha,17394,ritujha3379754@example.com,None,Retired,654,77,Very low,High,Very high,(216) 249-9682-812
+Yash Yadav,100535,yashyadav6129051@example.com,Engineering,Employed Full-time,785,53,High,Very high,High,(216) 116-7323-812
+Ravi Yadav,0,raviyadav8921260@example.com,No Job,Student,300,27,Medium,low,Low,(215) 568-9746-812
+Aditya Joshi,89394,adityajoshi1520584@example.com,Sales,Employed Part-time,796,48,High,Very high,High,(215) 186-1920-812
+Yash Kumar,53933,yashkumar2511185@example.com,HR,Employed Full-time,729,53,Low,High,High,(200) 155-5299-812
+Aadhya Saxena,59254,aadhyasaxena1167814@example.com,Sales,Contractor,461,44,Low,low,Medium,(216) 545-1528-812
+Amit Kumar,0,amitkumar4178934@example.com,No Job,Student,300,29,Medium,low,Low,(215) 247-6541-812
+Ritu Rao,78131,riturao8624350@example.com,HR,Employed Full-time,542,27,Medium,low,Low,(215) 806-9357-812
+Tanishka Chakraborty,53519,tanishkachakraborty4456444@example.com,Sales,Contractor,335,39,Low,low,Medium,(205) 870-7310-812
+Kush Reddy,42420,kushreddy2297924@example.com,Engineering,Self-Employed,665,58,Low,High,Very high,(224) 430-4358-812
+Shiv Shah,65839,shivshah8772634@example.com,Customer Support,Employed Part-time,711,49,Medium,High,High,(216) 876-4660-812
+Sarah Shah,0,sarahshah5626990@example.com,None,Unemployed,333,23,Very low,low,Low,(205) 202-5863-812
+Tripti Chaudhary,75763,triptichaudhary9802954@example.com,HR,Contractor,626,18,Medium,Medium,Low,(215) 284-8179-812
+Chirag Kumar,0,chiragkumar6859556@example.com,No Job,Student,300,28,High,low,Low,(215) 719-4348-812
+John Saxena,10200,johnsaxena2355024@example.com,Internship,Student,487,19,Very low,low,Low,(205) 305-7809-812
+Kush Mukherjee,53893,kushmukherjee3603626@example.com,None,Retired,750,79,Low,Very high,Very high,(200) 162-8220-812
+Vivek Miller,101805,vivekmiller7105735@example.com,Software Development,Employed Part-time,756,18,High,Very high,Low,(224) 510-7189-812
+Vikram Joshi,41309,vikramjoshi8389909@example.com,Software Development,Contractor,636,58,Low,Medium,Very high,(209) 546-9883-812
+Gaurav Shetty,102271,gauravshetty6492239@example.com,Software Development,Employed Full-time,337,30,High,low,Medium,(209) 231-7377-812
+Rakesh Iyer,108029,rakeshiyer2894994@example.com,Marketing,Self-Employed,563,30,High,Medium,Medium,(205) 408-6445-812
+Ira Ali,0,iraali9194801@example.com,None,Unemployed,425,50,Very low,low,High,(200) 177-6681-812
+Anjali Sinha,111979,anjalisinha9060420@example.com,Marketing,Employed Part-time,365,56,High,low,Very high,(209) 706-8259-812
+Kushagra Mehta,65322,kushagramehta7967304@example.com,Customer Support,Self-Employed,531,36,Medium,low,Medium,(215) 538-5118-812
+Rishi Shukla,43234,rishishukla7071254@example.com,None,Retired,619,67,Low,Medium,Very high,(200) 779-2989-812
+Naman Chandra,69739,namanchandra7390351@example.com,Engineering,Employed Full-time,578,33,Medium,Medium,Medium,(215) 810-9480-812
+Rajesh Patil,93587,rajeshpatil1987468@example.com,HR,Employed Full-time,797,43,High,Very high,Medium,(209) 888-9537-812
+Sanjay Tripathi,45836,sanjaytripathi3332527@example.com,HR,Employed Part-time,582,28,Low,Medium,Low,(215) 523-7984-812
+Vivaan Das,20834,vivaandas4551613@example.com,None,Retired,633,81,Very low,Medium,Very high,(209) 684-8360-812
+Kiran Kumar,0,kirankumar2440993@example.com,None,Unemployed,309,34,Very low,low,Medium,(200) 182-8971-812
+Rahul Dubey,11591,rahuldubey398241@example.com,Internship,Student,372,25,Very low,low,Low,(215) 405-7661-812
+Suresh Pathan,81870,sureshpathan1549365@example.com,Marketing,Employed Full-time,514,41,High,low,Medium,(216) 636-9955-812
+Sanjay Mishra,63426,sanjaymishra8926511@example.com,Finance,Self-Employed,702,24,Medium,High,Low,(209) 979-1687-812
+Nitin Rathore,0,nitinrathore6236994@example.com,None,Unemployed,370,56,Very low,low,Very high,(205) 221-8590-812
+Ajay Nair,81780,ajaynair7010507@example.com,Operations,Self-Employed,549,41,High,low,Medium,(205) 943-5270-812
+Prakash Chatterjee,0,prakashchatterjee9661508@example.com,None,Unemployed,421,59,Very low,low,Very high,(216) 862-8566-812
+Shreya Johnson,108023,shreyajohnson4696257@example.com,HR,Self-Employed,643,56,High,Medium,Very high,(216) 578-1887-812
+Reyansh Khan,46700,reyanshkhan2403772@example.com,Customer Support,Employed Part-time,588,25,Low,Medium,Low,(209) 806-2275-812
+Rishi Miller,70683,rishimiller5536151@example.com,Sales,Employed Full-time,409,55,Medium,low,Very high,(215) 270-8252-812
+Gunjan Gandhi,58872,gunjangandhi1550228@example.com,Engineering,Employed Full-time,797,18,Low,Very high,Low,(200) 545-6844-812
+David Farooqi,2715,davidfarooqi6896585@example.com,Internship,Student,439,21,Very low,low,Low,(216) 701-1955-812
+Anika Sharma,97558,anikasharma9002@example.com,Customer Support,Contractor,760,33,High,Very high,Medium,(200) 464-1681-812
+Shiv Shetty,73661,shivshetty292387@example.com,Software Development,Employed Full-time,489,18,Medium,low,Low,(205) 128-8396-812
+Vihaan Nair,88273,vihaannair6627387@example.com,Engineering,Self-Employed,403,26,High,low,Low,(215) 350-1097-812
+Nisha Mishra,19689,nishamishra8059553@example.com,None,Retired,688,65,Very low,High,Very high,(215) 795-9624-812
+Sarah Doe,4002,sarahdoe4741921@example.com,Internship,Student,388,19,Very low,low,Low,(200) 279-2323-812
+Preeti Chatterjee,39530,preetichatterjee4740731@example.com,None,Retired,793,78,Very low,Very high,Very high,(205) 992-4131-812
+Tanishka Shah,43837,tanishkashah7798662@example.com,Finance,Self-Employed,744,48,Low,High,High,(215) 435-5092-812
+Abhay Gupta,0,abhaygupta5266650@example.com,None,Unemployed,406,40,Very low,low,Medium,(209) 756-4956-812
+Ritu Chaudhary,41375,rituchaudhary4932223@example.com,None,Retired,789,83,Low,Very high,Very high,(216) 843-4067-812
+Ayaan Rao,0,ayaanrao5863760@example.com,No Job,Student,300,25,High,low,Low,(200) 435-9572-812
+Chirag Bhat,88331,chiragbhat2807131@example.com,Customer Support,Contractor,773,43,High,Very high,Medium,(209) 439-5785-812
+Bhavna Kulkarni,107255,bhavnakulkarni7031984@example.com,Marketing,Contractor,830,29,High,Very high,Low,(209) 902-9350-812
+Dinesh Sen,113531,dineshsen2580343@example.com,Finance,Self-Employed,432,23,High,low,Low,(205) 279-5877-812
+Siddharth George,50655,siddharthgeorge8948191@example.com,Engineering,Employed Part-time,444,19,Low,low,Low,(200) 792-1249-812
+Vivaan Pandey,104819,vivaanpandey5281517@example.com,Software Development,Employed Part-time,432,58,High,low,Very high,(224) 230-9019-812
+Gaurav Kurian,115500,gauravkurian8747181@example.com,Engineering,Employed Part-time,804,56,High,Very high,Very high,(205) 176-7606-812
+Anjali Ghosh,0,anjalighosh8892354@example.com,None,Unemployed,325,54,Very low,low,High,(224) 962-3011-812
+Sumit George,64070,sumitgeorge7958954@example.com,Finance,Contractor,645,25,Medium,Medium,Low,(209) 357-7687-812
+Ishaan Desai,47029,ishaandesai2530078@example.com,HR,Self-Employed,782,47,Low,Very high,High,(216) 615-5353-812
+Robert Pathan,7217,robertpathan6727920@example.com,None,Retired,704,78,Very low,High,Very high,(200) 582-4853-812
+Meera Kumar,45488,meerakumar8373013@example.com,Marketing,Self-Employed,603,27,Low,Medium,Low,(216) 601-2249-812
+Sakshi Joshi,2406,sakshijoshi9552422@example.com,Internship,Student,498,27,Very low,low,Low,(200) 979-9001-812
+Kushagra George,59648,kushagrageorge938203@example.com,None,Retired,745,63,Low,High,Very high,(215) 484-4580-812
+Divya Patil,0,divyapatil6854288@example.com,None,Unemployed,415,58,Very low,low,Very high,(205) 384-3662-812
+Dev Pathan,89525,devpathan3758561@example.com,Sales,Contractor,560,26,High,Medium,Low,(200) 288-4262-812
+Siddharth Shah,114774,siddharthshah6930091@example.com,HR,Employed Part-time,742,52,High,High,High,(224) 199-8062-812
+Rudra Nair,113860,rudranair7950567@example.com,Software Development,Contractor,373,24,High,low,Low,(209) 807-6263-812
+Naman Sen,107422,namansen9572617@example.com,HR,Employed Part-time,450,35,High,low,Medium,(216) 250-6059-812
+Yash Kumar,44574,yashkumar3006744@example.com,Engineering,Self-Employed,397,59,Low,low,Very high,(224) 361-6318-812
+Kajal Agarwal,3606,kajalagarwal492037@example.com,Internship,Student,459,22,Very low,low,Low,(205) 245-5952-812
+Mike Gandhi,8955,mikegandhi786196@example.com,Internship,Student,421,23,Very low,low,Low,(224) 673-1170-812
+Krishna Reddy,85291,krishnareddy9425932@example.com,HR,Employed Full-time,567,29,High,Medium,Low,(216) 550-6760-812
+Sarah Hussain,108859,sarahhussain1741459@example.com,Engineering,Self-Employed,829,34,High,Very high,Medium,(209) 165-9278-812
+Vivaan Rao,60759,vivaanrao114015@example.com,Marketing,Contractor,339,34,Medium,low,Medium,(224) 842-8054-812
+Vikram Joshi,320,vikramjoshi5003709@example.com,Internship,Student,385,17,Very low,low,Low,(200) 632-5721-812
+Jessica Khan,115832,jessicakhan1052026@example.com,Engineering,Employed Part-time,770,29,High,Very high,Low,(216) 535-2856-812
+Siddharth Yadav,45544,siddharthyadav1366343@example.com,Customer Support,Contractor,635,31,Low,Medium,Medium,(200) 974-6071-812
+Nikhil Mirza,101567,nikhilmirza9146191@example.com,Operations,Contractor,607,44,High,Medium,Medium,(216) 874-8057-812
+Mike Malhotra,103726,mikemalhotra6389568@example.com,Sales,Employed Part-time,648,35,High,Medium,Medium,(224) 186-2218-812
+Deepak Sen,111360,deepaksen52703@example.com,Sales,Self-Employed,447,32,High,low,Medium,(205) 236-8136-812
+Kian Malhotra,64292,kianmalhotra1561944@example.com,Operations,Employed Full-time,499,38,Medium,low,Medium,(205) 380-9326-812
+Reyansh Naik,44112,reyanshnaik6161789@example.com,Engineering,Self-Employed,721,29,Low,High,Low,(205) 680-6832-812
+Kush Joshi,48602,kushjoshi328995@example.com,Software Development,Employed Part-time,680,25,Low,High,Low,(224) 588-6839-812
+Sai Chandra,46356,saichandra5080097@example.com,Marketing,Employed Full-time,559,59,Low,Medium,Very high,(216) 640-2803-812
+Sonal Gandhi,0,sonalgandhi4182003@example.com,None,Unemployed,399,52,Very low,low,High,(215) 754-6449-812
+Anika Mehta,76760,anikamehta3608541@example.com,HR,Self-Employed,422,57,Medium,low,Very high,(216) 370-1269-812
+Ritu Kulkarni,79557,ritukulkarni5010390@example.com,Sales,Contractor,519,42,Medium,low,Medium,(205) 856-7238-812
+Pranav Sen,21564,pranavsen7874483@example.com,None,Retired,694,78,Very low,High,Very high,(200) 662-3422-812
+Kavya Dubey,55673,kavyadubey2074393@example.com,Customer Support,Contractor,531,33,Low,low,Medium,(209) 620-5733-812
+Kushagra Hussain,42358,kushagrahussain9093310@example.com,Customer Support,Self-Employed,784,55,Low,Very high,Very high,(209) 559-8871-812
+Neha Hussain,47108,nehahussain7520934@example.com,Engineering,Employed Full-time,487,50,Low,low,High,(205) 716-4344-812
+Kriti Malhotra,61461,kritimalhotra8873950@example.com,Sales,Contractor,823,50,Medium,Very high,High,(200) 447-5747-812
+Shiv Joshi,90574,shivjoshi6622409@example.com,HR,Contractor,335,35,High,low,Medium,(209) 367-8872-812
+Rahul Saxena,51477,rahulsaxena2965618@example.com,None,Retired,691,60,Low,High,Very high,(200) 784-2530-812
+Aadhya Joseph,70677,aadhyajoseph8328865@example.com,Customer Support,Employed Full-time,692,38,Medium,High,Medium,(216) 624-2320-812
+Krishna Smith,0,krishnasmith4313386@example.com,None,Unemployed,329,48,Very low,low,High,(224) 587-5334-812
+Jane Saxena,81548,janesaxena9317892@example.com,Sales,Employed Part-time,557,47,High,Medium,High,(216) 580-4256-812
+Ira Rao,84460,irarao3501957@example.com,Software Development,Contractor,740,39,High,High,Medium,(216) 237-8099-812
+Deepak Patel,97911,deepakpatel5041622@example.com,Marketing,Employed Full-time,791,46,High,Very high,High,(216) 981-6106-812
+Aryan Jha,107463,aryanjha6858018@example.com,Finance,Employed Full-time,376,49,High,low,High,(209) 805-5405-812
+Ananya Jha,58800,ananyajha1048221@example.com,Customer Support,Employed Part-time,498,51,Low,low,High,(209) 861-9690-812
+Rakesh Pandey,0,rakeshpandey545218@example.com,No Job,Student,300,26,High,low,Low,(205) 219-2270-812
+Mayank Agarwal,78779,mayankagarwal5190102@example.com,Marketing,Contractor,833,54,Medium,Very high,High,(205) 522-2122-812
+Shiv Mishra,65977,shivmishra6212168@example.com,Sales,Employed Part-time,426,38,Medium,low,Medium,(224) 889-7606-812
+Sai Qureshi,78062,saiqureshi1586169@example.com,Operations,Contractor,374,25,Medium,low,Low,(215) 960-9120-812
+Kriti Singh,109100,kritisingh4905240@example.com,HR,Self-Employed,686,55,High,High,Very high,(205) 334-7302-812
+Kritik Pathan,76240,kritikpathan6613198@example.com,HR,Employed Part-time,457,18,Medium,low,Low,(216) 651-4458-812
+Ansh Joshi,45733,anshjoshi6365133@example.com,Engineering,Employed Part-time,846,21,Low,Very high,Low,(216) 308-1130-812
+Rakesh Reddy,0,rakeshreddy7424040@example.com,No Job,Student,300,23,High,low,Low,(224) 476-8531-812
+Gunjan Dubey,55612,gunjandubey2892045@example.com,None,Retired,729,62,Low,High,Very high,(209) 314-9280-812
+Sai Kumar,0,saikumar4567677@example.com,No Job,Student,300,20,High,low,Low,(205) 550-8554-812
+Rudra Gupta,40624,rudragupta746371@example.com,Finance,Employed Part-time,818,46,Low,Very high,High,(209) 982-6149-812
+Kiran Qureshi,93735,kiranqureshi6480329@example.com,Engineering,Self-Employed,827,34,High,Very high,Medium,(205) 684-6962-812
+Vivaan Farooqi,48990,vivaanfarooqi1784801@example.com,Marketing,Self-Employed,498,29,Low,low,Low,(209) 989-7577-812
+Naman Joseph,41927,namanjoseph3125302@example.com,Marketing,Self-Employed,591,39,Low,Medium,Medium,(216) 112-9229-812
+Prakash Rai,52917,prakashrai809357@example.com,None,Retired,693,63,Low,High,Very high,(205) 332-1943-812
+Ritu Brown,43352,ritubrown274072@example.com,Customer Support,Employed Part-time,656,46,Low,High,High,(216) 504-4032-812
+Kian Ghosh,0,kianghosh306277@example.com,None,Unemployed,305,29,Very low,low,Low,(216) 243-6362-812
+Rajesh Mirza,108757,rajeshmirza7345383@example.com,Engineering,Contractor,329,52,High,low,High,(216) 952-7742-812
+Sanjay Smith,14692,sanjaysmith2873394@example.com,Internship,Student,374,19,Very low,low,Low,(216) 186-8598-812
+Ansh Chakraborty,97582,anshchakraborty2948902@example.com,Sales,Employed Part-time,773,43,High,Very high,Medium,(224) 103-6372-812
+Aarohi Sen,2601,aarohisen7446840@example.com,Internship,Student,400,16,Very low,low,Low,(216) 160-4429-812
+Vivaan Mehta,90803,vivaanmehta3863861@example.com,Software Development,Employed Full-time,472,24,High,low,Low,(209) 787-1873-812
+Vivaan Thomas,112454,vivaanthomas2472735@example.com,Operations,Employed Part-time,720,36,High,High,Medium,(215) 636-5207-812
+Kiran Varghese,44167,kiranvarghese9165267@example.com,Engineering,Employed Part-time,686,45,Low,High,High,(215) 837-6757-812
+Jessica Patel,72253,jessicapatel12140@example.com,Software Development,Employed Full-time,755,45,Medium,Very high,High,(200) 107-3681-812
+Mansi Kulkarni,0,mansikulkarni3590277@example.com,No Job,Student,300,22,High,low,Low,(209) 777-8657-812
+Chirag Kumar,83736,chiragkumar5300862@example.com,Finance,Employed Full-time,694,22,High,High,Low,(200) 135-4023-812
+Ananya Desai,107791,ananyadesai9924560@example.com,HR,Self-Employed,492,40,High,low,Medium,(200) 813-9869-812
+Divya Jain,31221,divyajain5652029@example.com,None,Retired,666,69,Very low,High,Very high,(224) 420-8803-812
