@@ -1,5 +1,5 @@
 ## 🚀 Projects Showcase
-
+![Project Overview](https://github.com/arnavbhatiamait/MicroNova/blob/main/Main_Image.jpg)
 ### 🎯 Stride — Co-Pilot App
 ![Stride App Screenshot](https://github.com/arnavbhatiamait/MicroNova/blob/main/Stride_logo.jpg)
 - 📺 [Watch Demo](https://youtu.be/IJsQaPAovoo)
