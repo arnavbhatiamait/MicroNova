@@ -13,4 +13,5 @@
 ---
 
 ### 🧠 Vistas — Sales Co-Pilot
+- 📺 [Watch Demo](https://youtu.be/udpBpbb_CcU)
 - 🌐 [Live Site on Hugging Face](https://huggingface.co/spaces/mokorox/Lead_Analyzer_Vista)
